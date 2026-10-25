@@ -61,8 +61,8 @@ This section will guide you through setting up the project locally to begin cont
 Clone this repository and change your current directory to the root of the project, where the file, `docker-compose.yml`, is located:
 
 ```powershell
-git clone https://github.com/callmegerlad/ntusu-itc-backend.git
-cd ntusu-itc-backend
+git clone https://github.com/NTUStudentUnion/ITCBackend.git
+cd ITCBackend
 ```
 
 ### 2. Build and run application using Docker
